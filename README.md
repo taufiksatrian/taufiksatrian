@@ -1,4 +1,4 @@
-#  Hi there, I'm Fajri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+#  Hi there, I'm Taufik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 <!--
 **taufiksatrian/taufiksatrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
