@@ -30,14 +30,11 @@ I'm a Informatics Student at Universitas Jenderal Soedirman.
 <br />
 
 <details>
-  <div>
     <summary>:zap: GitHub Stats</summary>
-
     <img align="left" alt="Taufik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taufiksatrian&show_icons=true&theme=calm" />
-  </div>
-  <div>
+</details>
+  
+ <details>
     <summary>:zap: Most Used Languages</summary>
-
     <img align="left" alt="Taufk's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufiksatrian&show_icons=true&theme=calm" />
-  </div>
 </details>
