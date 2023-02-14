@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Informatics Student at Universitas Jenderal Soedirman.
 
 - 👀 I’m currently student on bangkit machine learning path
 - 🔭 I’m looking to collaborate on capstone project bangkit 2023
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 
 </details>
 
+<br />
 
 <details>
   <summary>:zap: Most Used Languages</summary>
