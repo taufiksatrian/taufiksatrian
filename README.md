@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently student on bangkit machine learning path
+- 🍓🍍 I’m currently member of fruitarians tim capstone on bangkit 2023 🥭✨
+- 🔭 I’m looking to collaborate on capstone project bangkit 2023
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on capstone project bangkit 2023
 - 🤔 I’m looking for help with ...
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 I'm a Informatics Student at Universitas Jenderal Soedirman.
 
-- 🔭 I’m looking to collaborate on capstone project bangkit 2023
+- 🍓🍍 I’m currently member of fruitarians tim capstone on bangkit 2023 🥭✨
 - 🌱 I’m currently learning about machine learning at bangkit
 - 💬 Feel free to ask me about data science or machine learning
 - 📫 How to reach me: taufiksatrianugraha21@gmail.com
