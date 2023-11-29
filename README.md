@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 I'm a Informatics Student at Universitas Jenderal Soedirman.
 
-- 🍓🍍 I'm currently working on my undergraduate thesis towards graduation 🥭✨
+- ✨ I'm currently working on my undergraduate thesis towards graduation
 - 🌱 I’m currently learning about data science at campus
 - 💬 Feel free to ask me about data science or machine learning
 - 📫 How to reach me: taufiksatrianugraha21@gmail.com
