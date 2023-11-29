@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🍓🍍 I’m currently member of fruitarians tim capstone on bangkit 2023 🥭✨
+- ✨ I’m currently member of fruitarians tim capstone on bangkit 2023 
 - 🔭 I’m looking to collaborate on capstone project bangkit 2023
 - 🌱 I’m currently learning data science
 - 👯 I’m looking to collaborate on Hackthon
