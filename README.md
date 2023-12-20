@@ -36,9 +36,9 @@ I'm a Informatics Student at Universitas Jenderal Soedirman.
 
 ### You Can Find Me at
 <p>
-  <a href="https://www.linkedin.com/in/taufik-satria-nugraha-701a46265/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="#" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="#" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/taufiksatrianugraha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.kaggle.com/taufiksatrianughraha" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.instagram.com/taufiksatrian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
 </p>
 <br />
 
